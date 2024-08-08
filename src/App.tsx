@@ -35,21 +35,21 @@ function Home() {
   const links: Array<HomeCardProps> = [
     {
       title: 'iso-clock',
-      link: "./iso-clock",
+      link: "#/iso-clock",
       description: 'An isometric 3D-ish clock for distraction-free new tabs. Perfect for your browser\'s about://home page.',
       image: './img/iso-clock.jpg'
     },
 
     {
       title: 'monitor-softlight',
-      link: "./softlight",
+      link: "#/softlight",
       description: 'Convert your second screen or mobile device into a temperature-controlled softlight',
       image: './img/softlight.jpg'
     },
 
     {
       title: 'infographics-genie',
-      link: "./infographics-generator",
+      link: "#/infographics-generator",
       description: 'Generate infographics quickly using SVG templates and JSON data. Perfect for blog images and social media sharing.',
       image: './img/softlight.jpg',
     }
