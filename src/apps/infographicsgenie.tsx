@@ -7,6 +7,33 @@ import { Input } from "../components/ui/input";
 import { Label } from "../components/ui/label";
 import { json } from "stream/consumers";
 
+
+const Header = () => {
+  return <header className="bg-dark">
+    <nav aria-label="Global" className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8">
+      <div className="flex">
+        <a href="#" className="px-1.5 text-lg">
+          <h1>👈 🏄 Back to tiny-apps </h1>
+
+        </a>
+      </div>
+
+      <div className="flex pl-16 items-center">
+        <h1 className="text-2xl font-bold mb-4 text-blue-400">Infographic Generator</h1>
+      </div>
+      <div className="flex ">
+
+        <a href="https://blog.shaishav.kr" target={"_blank"} className="px-8 text-lg font-semibold leading-6 text-white-900">
+          Blog
+        </a>
+
+        <a href="https://shaishav.kr" target={"_blank"} className="text-lg font-semibold leading-6 text-white-900">
+          About @wiresurfer
+        </a>
+      </div>
+    </nav></header>
+}
+
 type TwoColumnGridProps = {
   col1: React.ReactNode;
   col2: React.ReactNode;
@@ -89,9 +116,9 @@ const InfographicGenerator = () => {
   };
 
   return (
-    <div className="p-4">
-      <h1 className="text-2xl font-bold mb-4">Infographic Generator</h1>
-      <div className="space-y-4">
+    <div className="">
+      <Header />
+      <div className="py-4 px-24 space-y-4">
         <Card>
           <CardHeader>Upload Files</CardHeader>
           <CardContent>

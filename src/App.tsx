@@ -51,7 +51,7 @@ function Home() {
       title: 'infographics-genie',
       link: "#/infographics-generator",
       description: 'Generate infographics quickly using SVG templates and JSON data. Perfect for blog images and social media sharing.',
-      image: './img/softlight.jpg',
+      image: './img/infographics-generator.jpg',
     }
   ]
 
