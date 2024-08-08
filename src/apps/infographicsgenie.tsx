@@ -132,6 +132,12 @@ const InfographicGenerator = () => {
                     onChange={handleJsonUpload}
                     accept=".json"
                   />
+                  <a href="/templates/p1/sample.json" target="_blank" download>
+                    <p className="underline underline-offset-4">
+                      🔗 Try the following JSON Sample.[Download and choose]
+                      <img src="/templates/p1/sample.png" className="my-4 h-96 bg-white" alt="sample-template" />
+                    </p>
+                  </a>
                 </>
               }
               col2={
@@ -145,6 +151,12 @@ const InfographicGenerator = () => {
                     onChange={handleTemplateUpload}
                     accept=".svg"
                   />
+                  <a href="/templates/p1/drawing.svg" target="_blank" download>
+                    <p className="underline underline-offset-4">
+                      🔗 Try the following Infographic Template. [Download and choose]
+                      <img src="/templates/p1/drawing.svg" className="my-4 h-96 bg-white" alt="sample-template" />
+                    </p>
+                  </a>
                 </>
               }
             />

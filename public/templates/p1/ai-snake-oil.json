@@ -1,0 +1,16 @@
+{
+    "title": "AI Snake Oil Detector",
+    "subtitle": "Spotting Genuine AI Innovations",
+    "item1_title": "Ask Key Questions",
+    "item1_text": "- Problem it solves\n- Performance metrics\n- Training data\n- Known limitations",
+    "item2_title": "Understand AI Limits",
+    "item2_text": "- Hallucinations\n- Context challenges\n- Data dependency\n- Black box issues",
+    "item3_title": "Data Handling",
+    "item3_text": "- Data formats\n- Preprocessing\n- Context extraction\n- Data representation",
+    "item4_title": "Human Oversight",
+    "item4_text": "- Human oversight\n- User feedback\n- Model refinement\n- Update frequency",
+    "item5_title": "Implementation Needs",
+    "item5_text": "- Workflow changes\n- Computational resources\n- Maintenance\n- AI expertise",
+    "item6_title": "Ethics & Security",
+    "item6_text": "- Biases\n- Stakeholder impact\n- Transparency\n- Regulation compliance"
+}
