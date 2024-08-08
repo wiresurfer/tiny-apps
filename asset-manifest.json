@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tiny-apps/static/css/main.27826784.css",
+    "main.js": "/tiny-apps/static/js/main.1bb82314.js",
+    "static/js/453.09436837.chunk.js": "/tiny-apps/static/js/453.09436837.chunk.js",
+    "index.html": "/tiny-apps/index.html",
+    "main.27826784.css.map": "/tiny-apps/static/css/main.27826784.css.map",
+    "main.1bb82314.js.map": "/tiny-apps/static/js/main.1bb82314.js.map",
+    "453.09436837.chunk.js.map": "/tiny-apps/static/js/453.09436837.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27826784.css",
+    "static/js/main.1bb82314.js"
+  ]
+}
