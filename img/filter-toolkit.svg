@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#f6f5f0"/>
+  <line x1="30" y1="130" x2="370" y2="130" stroke="#BA7517" stroke-width="4"/>
+  <rect x="60" y="115" width="30" height="30" rx="4" fill="#854F0B"/>
+  <rect x="150" y="118" width="26" height="24" rx="4" fill="#EF9F27"/>
+  <rect x="220" y="100" width="16" height="60" rx="4" fill="#185FA5"/>
+  <rect x="290" y="118" width="26" height="24" rx="4" fill="#EF9F27"/>
+  <circle cx="163" cy="200" r="10" fill="#3a3a3a"/>
+  <line x1="163" y1="142" x2="163" y2="190" stroke="#777" stroke-width="3"/>
+  <circle cx="303" cy="200" r="10" fill="#3a3a3a"/>
+  <line x1="303" y1="142" x2="303" y2="190" stroke="#777" stroke-width="3"/>
+  <path d="M40 70 C 120 30, 280 30, 360 70" stroke="#1D9E75" stroke-width="3" fill="none" opacity="0.8"/>
+  <text x="200" y="45" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,sans-serif" font-size="20" font-weight="600" fill="#1a1a18">Filter Toolkit</text>
+</svg>

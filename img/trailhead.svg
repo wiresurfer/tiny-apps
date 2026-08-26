@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#17181a"/>
+  <rect x="60" y="75" width="280" height="120" rx="10" fill="#1f2023" stroke="#34352f" stroke-width="2"/>
+  <circle cx="82" cy="93" r="4" fill="#854F0B"/>
+  <circle cx="96" cy="93" r="4" fill="#854F0B" opacity="0.6"/>
+  <circle cx="110" cy="93" r="4" fill="#854F0B" opacity="0.3"/>
+  <text x="80" y="125" font-family="'Courier New',monospace" font-size="14" fill="#28d194">$ trailhead start</text>
+  <text x="80" y="145" font-family="'Courier New',monospace" font-size="13" fill="#8f8d84">Marking trailhead start: [solemn-bird]</text>
+  <text x="80" y="165" font-family="'Courier New',monospace" font-size="13" fill="#8f8d84">$ ...</text>
+  <text x="80" y="183" font-family="'Courier New',monospace" font-size="14" fill="#28d194">$ trailhead stop</text>
+  <text x="200" y="45" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,sans-serif" font-size="20" font-weight="600" fill="#eceae4">trailhead</text>
+</svg>

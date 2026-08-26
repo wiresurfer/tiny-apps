@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#f6f5f0"/>
+  <rect x="90" y="80" width="220" height="100" rx="8" fill="#fff" stroke="#d3d1c7" stroke-width="2"/>
+  <rect x="112" y="100" width="90" height="10" rx="2" fill="#1a1a18" opacity="0.75"/>
+  <rect x="112" y="118" width="60" height="8" rx="2" fill="#888780"/>
+  <g fill="#1a1a18">
+    <rect x="112" y="140" width="3" height="26"/>
+    <rect x="118" y="140" width="5" height="26"/>
+    <rect x="126" y="140" width="2" height="26"/>
+    <rect x="131" y="140" width="4" height="26"/>
+    <rect x="138" y="140" width="3" height="26"/>
+    <rect x="144" y="140" width="6" height="26"/>
+    <rect x="153" y="140" width="2" height="26"/>
+    <rect x="158" y="140" width="4" height="26"/>
+    <rect x="165" y="140" width="3" height="26"/>
+    <rect x="171" y="140" width="5" height="26"/>
+  </g>
+  <rect x="230" y="140" width="46" height="26" rx="3" fill="#1D9E75" opacity="0.15" stroke="#1D9E75" stroke-width="1.5"/>
+  <path d="M60 80 h-14 v100 h14" stroke="#BA7517" stroke-width="3" fill="none" opacity="0.7"/>
+  <path d="M340 80 h14 v100 h-14" stroke="#BA7517" stroke-width="3" fill="none" opacity="0.7"/>
+  <text x="200" y="45" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,sans-serif" font-size="20" font-weight="600" fill="#1a1a18">ZPL Designer</text>
+</svg>
